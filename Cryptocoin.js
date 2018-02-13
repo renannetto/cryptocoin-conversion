@@ -1,6 +1,7 @@
 // bugfix modification
 // bugfix modification 2
 // new feature implementation
+// new feature 2
 
 exports.Cryptocoin = class {
   constructor(id, name, price_usd) {
